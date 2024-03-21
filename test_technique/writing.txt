@@ -1,0 +1,6 @@
+M0AUCHA  AC000181021                     C+000000105208         021221                                     EURACHN  AUCHAN 684838437                B0000001                         B0000001.pdf                           
+M44566600AC000181021                     D+0000000021640AUCHA   021221                                     EURACHN  AUCHAN 684838437                B0000001                         B0000001.pdf                           
+M60700200AC000181021                     D+0000001030440AUCHA   021221                                     EURACHN  AUCHAN 684838437                B0000001                         B0000001.pdf                           
+M0CARRE  AC000151021                     C+000000161483         301121                                     EURACHN  CARREFOUR 0590618               B0000002                         B0000002.pdf                           
+M44566600AC000151021                     D+0000000146800CARRE   301121                                     EURACHN  CARREFOUR 0590618               B0000002                         B0000002.pdf                           
+M60701000AC000151021                     D+0000001468030CARRE   301121                                     EURACHN  CARREFOUR 0590618               B0000002                         B0000002.pdf                           

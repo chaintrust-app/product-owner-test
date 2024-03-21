@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "date": "2021-10-18",
+    "date_echeance": "2021-12-02",
+    "document_reference": "B0000001",
+    "merchant_name": "AUCHAN",
+    "external_reference": "684838437",
+    "file_name": "B0000001.pdf",
+    "writing_lines": [
+      {
+        "account_number": "0AUCHA",
+        "journal_code": "ACH",
+        "folio_number": "000",
+        "direction": "C",
+        "amount": "105208",
+        "contrepartie": "",
+        "currency": "EUR"
+      },
+      {
+        "account_number": "44566600",
+        "journal_code": "ACH",
+        "folio_number": "000",
+        "direction": "D",
+        "amount": "2164",
+        "contrepartie": "0AUCHA",
+        "currency": "EUR"
+      },
+      {
+        "account_number": "60700200",
+        "journal_code": "ACH",
+        "folio_number": "000",
+        "direction": "D",
+        "amount": "103044",
+        "contrepartie": "0AUCHA",
+        "currency": "EUR"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "date": "2021-10-15",
+    "date_echeance": "2021-11-30",
+    "document_reference": "B0000002",
+    "merchant_name": "CARREFOUR",
+    "external_reference": "0590618",
+    "file_name": "B0000002.pdf",
+    "writing_lines": [
+      {
+        "account_number": "0CARRE",
+        "journal_code": "ACH",
+        "folio_number": "000",
+        "direction": "C",
+        "amount": "161483",
+        "contrepartie": "",
+        "currency": "EUR"
+      },
+      {
+        "account_number": "44566600",
+        "journal_code": "ACH",
+        "folio_number": "000",
+        "direction": "D",
+        "amount": "14680",
+        "contrepartie": "0CARRE",
+        "currency": "EUR"
+      },
+      {
+        "account_number": "60701000",
+        "journal_code": "ACH",
+        "folio_number": "000",
+        "direction": "D",
+        "amount": "146803",
+        "contrepartie": "0CARRE",
+        "currency": "EUR"
+      }
+    ]
+  }
+]
